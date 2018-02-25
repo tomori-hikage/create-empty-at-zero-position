@@ -10,7 +10,7 @@ create-empty-at-zero-positionは空のゲームオブジェクトのローカル
 
 ## Install
 
-create-empty-at-zero-position.unitypackageをプロジェクトにインポートしてください
+[create-empty-at-zero-position.unitypackage](https://github.com/tomoriaki/create-empty-at-zero-position/releases)をプロジェクトにインポートしてください
 
 ## Author
 
