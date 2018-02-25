@@ -6,7 +6,7 @@ using EditorExtensions;
 namespace HC.Editor
 {
     /// <summary>
-    /// 空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張
+    /// 生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張
     /// </summary>
     [InitializeOnLoad]
     public class CreateEmptyAtZeroPosition
