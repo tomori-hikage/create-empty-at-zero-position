@@ -2,7 +2,7 @@
 
 ## Description
 
-create-empty-at-zero-positionは空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張です
+create-empty-at-zero-positionは生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張です
 
 ## Demo
 
