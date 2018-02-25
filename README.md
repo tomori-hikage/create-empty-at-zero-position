@@ -24,5 +24,4 @@ Qiita: [@tomoriaki](https://qiita.com/tomoriaki)
 ## Use License
 
 create-empty-at-zero-positionはEditorExtensionsをベースに作成しています
-
 [Copyright (c) 2017 Stereoarts](https://github.com/Stereoarts/EditorExtensions)
