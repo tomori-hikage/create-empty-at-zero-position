@@ -50,7 +50,7 @@ namespace HC.Editor
         /// ON / OFFの切り替え
         /// </summary>
         [MenuItem(MenuPath)]
-        private static bool OnOff()
+        private static void OnOff()
         {
             _isOn = !_isOn;
             Menu.SetChecked(MenuPath, _isOn);
@@ -64,8 +64,6 @@ namespace HC.Editor
             {
                 Off();
             }
-
-            return true;
         }
 
         /// <summary>
