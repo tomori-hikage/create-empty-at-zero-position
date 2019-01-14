@@ -1,3 +1,8 @@
+[![license](https://img.shields.io/github/license/tomori-hikage/create-empty-at-zero-position.svg?style=flat-square)](https://github.com/tomori-hikage/create-empty-at-zero-position/blob/master/LICENSE)
+[![release](https://img.shields.io/github/release/tomori-hikage/create-empty-at-zero-position.svg?style=flat-square)](https://github.com/tomori-hikage/create-empty-at-zero-position/releases)
+[![GitHub](https://img.shields.io/github/followers/tomori-hikage.svg?label=@tomori-hikage&style=social)](https://github.com/tomori-hikage)
+[![Twitter](https://img.shields.io/twitter/follow/tomori_hikage.svg?label=@tomori_hikage&style=social)](https://twitter.com/tomori_hikage)
+
 # create-empty-at-zero-position
 
 ## Description
@@ -11,16 +16,6 @@ create-empty-at-zero-positionは生成した空のゲームオブジェクトの
 ## Install
 
 [releases](https://github.com/tomoriaki/create-empty-at-zero-position/releases)からcreate-empty-at-zero-position.unitypackageをダウンロードしてプロジェクトにインポートしてください
-
-## Author
-
-GitHub: [tomori-hikage](https://github.com/tomori-hikage)  
-Qiita: [@tomori_hikage](https://qiita.com/tomori_hikage)  
-Twitter: [@tomori_hikage](https://twitter.com/tomori_hikage)
-
-## Distribution License
-
-[MIT](https://github.com/tomori-hikage/create-empty-at-zero-position/blob/master/LICENSE)
 
 ## Use License
 
